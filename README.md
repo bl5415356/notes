@@ -20,3 +20,10 @@ This quote highlights the importance of designing user-friendly and intuitive so
 
 # 2023-11-20
 - "Keep it simple, stupid!"
+
+# 2023-11-21
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest industry trends, tools, and programming languages.
+
+To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, user-friendly software solutions. 
+ 学习新技能并掌握新技术。
+了解计算机科学的基本原则。
