@@ -27,3 +27,6 @@ This quote highlights the importance of designing user-friendly and intuitive so
 To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, user-friendly software solutions. 
  学习新技能并掌握新技术。
 了解计算机科学的基本原则。
+
+# 2023-11-22
+- "Keep it simple, stupid!"
