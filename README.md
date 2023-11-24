@@ -39,3 +39,6 @@ To be successful as a programmer, you should also have a deep understanding of c
 3. Stay organized: Use project management tools and software to keep track of all your tasks and deadlines. Organizing your workflow will make it easier to stay on track and complete your goals.  
 4. Learn from others: Read blogs, watch tutorials, or join online communities to learn from other developers and their experiences. Not only will this help to improve your own skills, but it will also give you valuable insights into best practices and techniques.   
 5. Practice continuous learning: Technology is constantly evolving, so it' s essential to remain up-to-date with the latest developments and trends. Set aside time each week to read articles, attend workshops,or participate in online courses to ensure you're always improving your skills.
+
+# 2023-11-24
+- "Keep it simple, stupid!"
