@@ -42,3 +42,6 @@ To be successful as a programmer, you should also have a deep understanding of c
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- "Keep it simple, stupid!"
