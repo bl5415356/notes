@@ -61,3 +61,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 5. Solve real-world problems: Seek out projects that solve real problems and have an impact on people'ss lives. Not only will this make your work more meaningful, but it will also helpyou develop a strong problem solving mindset.    
 6. Be open to feedback: Encourage others to provide feedback on your code and approach. Take their suggestions seriously and learn from them. It'll help improveyour skills as both a developer and a team player.     
 7. Stay organized: Maintaining a clean and organized codebase is essential for efficient collaboration and easy maintenance. Follow best practices for version control, code organization, comment writing,etc. to keep your projects in tip-top shape.
+
+# 2023-11-28
+- "Keep it simple, stupid!"
