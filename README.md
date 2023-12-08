@@ -95,3 +95,6 @@ This quote emphasizes the importance of avoiding unnecessary optimization early 
 
 # 2023-12-07
 - Today's programming wisdom is to write code that is readable, maintainable, and scalable. Code should be written with the understanding that it may need to be modified or expanded in the future, so it should be organized and documented in a way that makes it easy for others (or yourself) to understand and work with. Additionally, it's important to prioritize writing efficient and optimized code, but not at the expense of readability or maintainability. Remember that programming is a collaborative effort, and writing code that is easy for others to understand and work with will ultimately save time and improve the quality of the final product.
+
+# 2023-12-08
+- Today's programming wisdom is to prioritize readability and maintainability in your code. Writing clean, well-structured code that is easy to understand and modify will save time and reduce errors in the long run. This means using descriptive variable names, commenting your code effectively, and adhering to established coding conventions and best practices. Remember that code is read far more often than it is written, so make it as easy as possible for others (and your future self) to follow your thought process and make changes when necessary.
