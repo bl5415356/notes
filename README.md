@@ -190,3 +190,8 @@ Remember to stay flexible and adaptable. As you work, things may change, or new 
 
 # 2023-12-30
 - "Keep it simple, stupid!"
+
+# 2023-12-31
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the principles and concepts behind programming. That means understanding data structures, algorithms, computer architecture, operating systems, etc. All of these areas will play a role in your success as a programmer, so it’s important to dedicate time to learning and studying them.
