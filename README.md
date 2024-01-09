@@ -238,3 +238,6 @@ Remember, a good programmer is not someone who writes lengthy and intricate code
 To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, programming languages, software engineering principles, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt and thrive in an ever-changing technology landscape. 
  - 学习新技能，不断更新自己的知识和技能。
 - 对最新的技术、工具和最佳实践保持关注。 保持开放的心态，愿意尝试新的想法和方法。- 在编程中，深入了解基本原理，如数据结构、算法、编程语言、软件工程原则等。这些基本知识将为你在职业生涯中取得成功奠定坚实的基础。
+
+# 2024-01-09
+- "Keep it simple, stupid!"
