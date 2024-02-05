@@ -363,3 +363,9 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 4. Ask for feedback: Seek feedback from peers and mentors on your code and projects. It'll help identify areas for improvement and give you a better understanding of your strengths and weaknesses.   
 5. Be open-minded: As you progress in programming, you may encounter new languages or technologies that you're not familiar with. Embrace these opportunities to learn and grow.    
 6. Document your work: Writing down your thoughts and processes while coding can be extremely helpful when it comes to troubleshooting or explaining your solutions to others. Keep a notebook or use coding documentation tools like Javadoc or Doxygen to record your progress.
+
+# 2024-02-05
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To become a successful programmer, one must also develop excellent communication and problem-solving skills, as these are crucial for working with teammates and addressing the challenges that arise during project development. It is also important to have a solid foundation in core programming languages, like Python, Java, or JavaScript, which can be applied to various projects and industries. Additionally, learning about version control systems, including Git, is a must-have skill for any programmer. 
+ 学习新技能，如人工智能、机器学习和物联网等。 培养良好的沟通和解决问题的能力。掌握核心编程语言，例如Python、Java或JavaScript。学习版本控制系统，比如Git。
