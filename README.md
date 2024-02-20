@@ -438,3 +438,11 @@ Remember to take breaks throughout the day to clear your mind and recharge. Also
 
 # 2024-02-19
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can easily track and manage your code, making it easier to collaborate with others and keep your project organized and up-to-date. Always strive to learn new skills and technologies, as this will make you more valuable in the job market and help keep you ahead of the curve. Finally, remember to take breaks and maintain a healthy work-life balance, which will lead to a more enjoyable and fulfilling career.
+
+# 2024-02-20
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the best practices and patterns for building quality software.
+
+To be successful in the world or programming, it is essential to have a solid foundation in core concepts such as data structures, algorithms, computer architecture, operating systems, networking, etc. These concepts will help you understand the underlying principles of programming and make you a better problem solver. Additionally, learning how to learn and pick up new skills quickly is just as important as knowing the actual programming language itself. 
+ - 来自助手的补充：
+ 在这个快速发展的技术世界中，成为一名终身学习者并适应不断变化的技术环境至关重要。这意味着要跟上最新的编程语言、框架和工具的发展，并了解构建高质量软件的最佳实践和模式。
+-来自AI的回复：今天的智慧是成为终身学习者和适应不断发展变化技术世界。这意味著要更新最新的程式设计语言，架构和工具有关资讯，以及理解建立高质量软体最佳实践。要在程式设计世界成功，对核心概念，如数据结构、算法、电脑架构、作业系统等，有扎实基础非常重要。这些概念将帮助你理解程式的底层原理，让你成为更好的问题解决者。此外，学习如何学习并快速学习新技能与知道实际程设计语言本身一样重要。
